@@ -1,3 +1,5 @@
+TO RUN: Download all files and put them into a folder. Open a new terminal window at the folder location and compile Generala.java with with the following command: "javac Generala.java". Finally run with: "java Generala".
+
 Simple 2-4 player Console applicaiton of Generala. a dice game similar to poker dice, Kniffel, and the Polish game Jacy-Tacy (yahtzee-tahtzee). The American variant, Yahtzee, is the most popular version. While Generala is sometimes played in Europe and the U.S., it is most popular in Latin America.
 
 The rules are simple:
